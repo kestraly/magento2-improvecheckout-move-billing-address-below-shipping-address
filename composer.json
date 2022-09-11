@@ -1,0 +1,22 @@
+{
+    "name": "ananta/module-improvedcheckout",
+    "description": "This module improves existing step checkout and allow some more flexibility options",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Natha Odedara",
+            "email": "nathaodedara24@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Ananta\\ImprovedCheckout\\": ""
+        }
+    }
+}
