@@ -1,0 +1,25 @@
+# Magento 2 Extension Improve Checkout Move Billing Address below Shipping Address
+
+## Main Functionalities
+Move Billing address below Shipping address and also show total summary on shipping step as well for Magento 2
+
+- Adds Billing Address below Shipping Address on Shipping step
+- Also adds total summary on Shipping step.
+
+## Installation
+\* = in production please use the `--keep-generated` option
+
+ - Unzip the zip file in `app/code/Ananta`
+ - Enable the module by running `php bin/magento module:enable Ananta_ImprovedCheckout`
+ - Apply database updates by running `php bin/magento setup:upgrade`\*
+ - Flush the cache by running `php bin/magento cache:flush`
+
+
+## Screenshots
+
+![Screenshots](https://github.com/nathaodedara/magento2-improvecheckout-move-billing-address-below-shipping-address/blob/main/screenshots/screenshot1.png?raw=true)
+![Screenshots](https://github.com/nathaodedara/magento2-improvecheckout-move-billing-address-below-shipping-address/blob/main/screenshots/screenshot2.png?raw=true)
+![Screenshots](https://github.com/nathaodedara/magento2-improvecheckout-move-billing-address-below-shipping-address/blob/main/screenshots/screenshot3.png?raw=true)
+![Screenshots](https://github.com/nathaodedara/magento2-improvecheckout-move-billing-address-below-shipping-address/blob/main/screenshots/screenshot4.png?raw=true)
+![Screenshots](https://github.com/nathaodedara/magento2-improvecheckout-move-billing-address-below-shipping-address/blob/main/screenshots/screenshot5.png?raw=true)
+
