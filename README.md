@@ -14,6 +14,9 @@ Move Billing address below Shipping address and also show total summary on shipp
  - Apply database updates by running `php bin/magento setup:upgrade`\*
  - Flush the cache by running `php bin/magento cache:flush`
 
+## Configuration
+ - Once installation is done, you just need to go to **Admin panel**. Go to **Stores > Configuration > SALES > Checkout > Checkout Options**, and make sure to set **Display Billing Address On** to **Payment Page**.
+ ![Configuration Setting](https://github.com/nathaodedara/magento2-improvecheckout-move-billing-address-below-shipping-address/blob/main/screenshots/screenshot6.png?raw=true)
 
 ## Screenshots
 
