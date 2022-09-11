@@ -1,5 +1,7 @@
 # Magento 2 Extension Improve Checkout Move Billing Address below Shipping Address
 
+![Main Image | Thumbnail | Magento 2](https://github.com/nathaodedara/magento2-improvecheckout-move-billing-address-below-shipping-address/blob/main/screenshots/how-to-move-billing-address-below-shipping-address-magento-2.jpg?raw=true)
+
 ## Main Functionalities
 Move Billing address below Shipping address and also show total summary on shipping step as well for Magento 2
 
